@@ -1,0 +1,5 @@
+--create .\Objects\gd32f103-iic-simulate-lib.lib
+.\objects\iic.o
+.\objects\iic_app.o
+.\objects\flash_record.o
+.\objects\fmc_flash.o
